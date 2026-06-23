@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Vinyl body -->
+  <circle cx="16" cy="16" r="15.5" fill="#04041a"/>
+  <!-- Grooves -->
+  <circle cx="16" cy="16" r="14.5" fill="none" stroke="#0f0f48" stroke-width="1.4"/>
+  <circle cx="16" cy="16" r="13"   fill="none" stroke="#060622" stroke-width="1.2"/>
+  <circle cx="16" cy="16" r="11.5" fill="none" stroke="#0f0f48" stroke-width="1.2"/>
+  <circle cx="16" cy="16" r="10"   fill="none" stroke="#060622" stroke-width="1"/>
+  <circle cx="16" cy="16" r="8.5"  fill="none" stroke="#0f0f48" stroke-width="1"/>
+  <!-- Shimmer highlight on groove -->
+  <path d="M 16 1 A 15 15 0 0 1 28 8" stroke="#83E7FF" stroke-width="1.2" fill="none" opacity="0.18" stroke-linecap="round"/>
+  <!-- Center label (violet) -->
+  <circle cx="16" cy="16" r="6.5" fill="#E8A0FF"/>
+  <!-- Label inner ring -->
+  <circle cx="16" cy="16" r="4.5" fill="none" stroke="#000181" stroke-width="0.6" opacity="0.3"/>
+  <!-- Center spindle (dark blue) -->
+  <circle cx="16" cy="16" r="1.8" fill="#000181"/>
+  <!-- Spindle hole -->
+  <circle cx="16" cy="16" r="0.9" fill="#04041a"/>
+  <!-- Outer rim -->
+  <circle cx="16" cy="16" r="15.5" fill="none" stroke="#83E7FF" stroke-width="0.5" opacity="0.25"/>
+</svg>
